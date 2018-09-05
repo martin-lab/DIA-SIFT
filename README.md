@@ -6,7 +6,7 @@
 <br />  
 
 ## DIA-SIFT instructions:
-*(requires a python environment with pandas, re, os and numpy libraries)*:
+*(requires a python environment with pandas and numpy libraries)*:
 
 After searching 2-plex SILAC .raw files with ProteinLynx Global Server (PLGS), move all final_fragment and final_peptide .csv files to the same directory for filtering.
 
