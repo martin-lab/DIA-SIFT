@@ -1,7 +1,6 @@
 # DIA-SIFT
-#### A post-processing tool to improve protein quantification when using Stable Isotope Labeling by Amino acids in Cell culture (SILAC) and LC-IMS-MS acquisition. From the Martin Lab at the University of Michigan.
+#### A post-processing tool to improve protein quantification when using Stable Isotope Labeling by Amino acids in Cell culture (SILAC) and LC-IMS-MS acquisition. From the [*Martin Lab at the University of Michigan*](https://sites.google.com/umich.edu/brentmartinlab/home).
 
-**[Martin Lab Homepage](https://sites.google.com/umich.edu/brentmartinlab/home)**
 
 <br />  
 
